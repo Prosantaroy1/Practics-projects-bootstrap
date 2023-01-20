@@ -1,0 +1,20 @@
+
+
+/*header*/
+.text-dark{
+    text-decoration: none;
+}
+.d-flex li{
+    list-style: none;
+}
+/*discount*/
+.discount{
+    position: absolute;
+    right: 0;
+    top: 700px;
+    border-left: 4px solid rgb(76, 0, 255);
+    font-size: 15px;
+    border-radius: 2px;
+    background-color: rgb(245, 245, 245);
+    padding: 8px;
+}
